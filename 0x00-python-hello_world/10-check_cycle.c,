@@ -27,6 +27,4 @@ int check_cycle(listint_t *list)
 		hare = hare->next->next;
 	}
 
-	return (0);
-}
- 60 changes: 60 additions & 0 deletions60  
+	return (0); 
