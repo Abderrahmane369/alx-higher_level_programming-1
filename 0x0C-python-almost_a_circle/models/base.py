@@ -2,7 +2,7 @@
 """
 This Module implements `base` class of all other classes in this project.
 The goal of it is to manage id attribute in all your future classes
-and to avoid duplicating the same code(s) (by extension, same bugs)
+and to avoid duplicating the same code (by extension, same bugs)
 """
 import json
 import turtle
